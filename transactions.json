@@ -1,0 +1,8 @@
+[
+  {
+    "description": "groceries",
+    "amount": 20000.0,
+    "category": "Food",
+    "spend_type": "Essential"
+  }
+]
